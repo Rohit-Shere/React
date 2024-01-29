@@ -10,8 +10,8 @@ function App() {
 //  let counter = 12
 
  const addvalue=()=>{
- counter=counter+1;
- setCounter(counter)
+ 
+ setCounter(counter+1)
  }
 
   return (
